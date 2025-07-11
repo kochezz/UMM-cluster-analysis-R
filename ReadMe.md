@@ -1,5 +1,9 @@
 # ABC Bank Cluster Analysis Assignment
 
+[![R](https://img.shields.io/badge/Built%20With-R-blue?logo=r)](https://www.r-project.org/)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 ## 🌐 Project Overview
 
 This project explores **customer segmentation** using unsupervised machine learning for ABC Bank. The goal is to identify clusters of similar customers based on their demographic and financial attributes to inform targeted marketing strategies.
@@ -33,6 +37,7 @@ UMM-cluster-analysis-R/
 │   └── customer_clusters.csv
 ├── scripts/
 │   └── cluster_analysis.R
+├── LICENSE
 └── README.md
 ```
 
@@ -62,11 +67,11 @@ UMM-cluster-analysis-R/
 
 ### Elbow Plot
 
-Shows that 3 clusters are optimal:&#x20;
+Shows that 3 clusters are optimal:
 
 ### PCA Cluster Plot
 
-Visualizes the separation between clusters:&#x20;
+Visualizes the separation between clusters:
 
 ---
 
@@ -96,7 +101,14 @@ Visualizes the separation between clusters:&#x20;
 
 ---
 
-**Author**: [@kochezz](https://github.com/kochezz)
+## 📅 Author & License
 
-**Tagline**: Get it done the BEDA way ✨
+**Author**: [@kochezz](https://github.com/kochezz)  
+**Tagline**: Get it done the BEDA way ✨  
+**License**: MIT License. See [LICENSE](./LICENSE) file for more info.
 
+---
+
+## 🏷️ Tags
+
+`clustering` `kmeans` `r-programming` `marketing-analysis` `customer-segmentation`

@@ -100,12 +100,15 @@ Visualizes the separation between clusters:
 - GitHub for version control
 
 ---
+## 📬 Contact
+
+Developed by **Business Enterprise Data Architecture (BEDA)**  
+📩 Email: [wphiri@beda.ie](mailto:wphiri@beda.ie)  
+🔗 LinkedIn: [William Phiri](https://www.linkedin.com/in/william-phiri-866b8443/) 
+**License**: MIT License. See [LICENSE](./LICENSE) file for more info.
+🧭  _"Get it done the BEDA way"_
 
 ## 📅 Author & License
-
-**Author**: [@kochezz](https://github.com/kochezz)  
-**Tagline**: Get it done the BEDA way ✨  
-**License**: MIT License. See [LICENSE](./LICENSE) file for more info.
 
 ---
 

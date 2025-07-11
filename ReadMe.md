@@ -104,13 +104,14 @@ Visualizes the separation between clusters:
 
 Developed by **Business Enterprise Data Architecture (BEDA)**  
 📩 Email: [wphiri@beda.ie](mailto:wphiri@beda.ie)  
-🔗 LinkedIn: [William Phiri](https://www.linkedin.com/in/william-phiri-866b8443/) 
-**License**: MIT License. See [LICENSE](./LICENSE) file for more info.
+🔗 LinkedIn: [William Phiri](https://www.linkedin.com/in/william-phiri-866b8443/)  
 🧭  _"Get it done the BEDA way"_
 
-## 📅 Author & License
-
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🏷️ Tags
 
